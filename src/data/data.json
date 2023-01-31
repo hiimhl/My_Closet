@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "반팔 티",
+      "sortSleeve": true,
+      "type": "tshirt",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "반팔티.png"
+    },
+    {
+      "id": 1,
+      "name": "긴발 티",
+      "sortSleeve": false,
+      "type": "tshirt",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "긴발티.png"
+    },
+    {
+      "id": 2,
+      "name": "슬랙스",
+      "sortSleeve": false,
+      "type": "pants",
+      "weather": "all",
+      "catagory": "bottom",
+      "gender": "unisex",
+      "image": "슬랙스.png"
+    },
+    {
+      "id": 3,
+      "name": "롱코트",
+      "sortSleeve": false,
+      "type": "jacket",
+      "weather": "F/W",
+      "catagory": "outer",
+      "gender": "unisex",
+      "image": "롱코트.png"
+    },
+    {
+      "id": 4,
+      "name": "나시",
+      "sortSleeve": true,
+      "type": "tshirt",
+      "weather": "summer",
+      "catagory": "top",
+      "gender": "female",
+      "image": "나시.png"
+    },
+    {
+      "id": 5,
+      "name": "니트",
+      "sortSleeve": false,
+      "type": "knit",
+      "weather": "F/W",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "니트.png"
+    }
+  ]
+}
