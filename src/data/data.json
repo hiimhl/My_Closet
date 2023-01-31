@@ -36,7 +36,7 @@
       "sortSleeve": false,
       "type": "jacket",
       "weather": "F/W",
-      "catagory": "outer",
+      "catagory": "jacket",
       "gender": "unisex",
       "image": "롱코트.png"
     },
@@ -54,11 +54,167 @@
       "id": 5,
       "name": "니트",
       "sortSleeve": false,
-      "type": "knit",
-      "weather": "F/W",
+      "type": "sweater",
+      "weather": "all",
       "catagory": "top",
       "gender": "unisex",
       "image": "니트.png"
+    },
+    {
+      "id": 6,
+      "name": "맨투맨",
+      "sortSleeve": false,
+      "type": "sweatshirt",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "맨투맨.png"
+    },
+
+    {
+      "id": 7,
+      "name": "목티",
+      "sortSleeve": false,
+      "type": "sweater",
+      "weather": "winter",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "목티.png"
+    },
+
+    {
+      "id": 8,
+      "name": "와이드 팬츠",
+      "sortSleeve": false,
+      "type": "pants",
+      "weather": "F/W",
+      "catagory": "bottom",
+      "gender": "unisex",
+      "image": "바지_와이드.png"
+    },
+
+    {
+      "id": 9,
+      "name": "치마",
+      "sortSleeve": false,
+      "type": "skirt",
+      "weather": "all",
+      "catagory": "bottom",
+      "gender": "female",
+      "image": "치마.png"
+    },
+    {
+      "id": 10,
+      "name": "롱치마",
+      "sortSleeve": false,
+      "type": "skirt",
+      "weather": "all",
+      "catagory": "bottom",
+      "gender": "female",
+      "image": "롱치마.png"
+    },
+
+    {
+      "id": 11,
+      "name": "반팔 카라티",
+      "sortSleeve": true,
+      "type": "tshirt",
+      "weather": "summer",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "반팔_카라티.png"
+    },
+    {
+      "id": 12,
+      "name": "브이넥 니트",
+      "sortSleeve": false,
+      "type": "sweater",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "브이넥_니트.png"
+    },
+    {
+      "id": 13,
+      "name": "브이넥 맨투맨",
+      "sortSleeve": false,
+      "type": "sweatshirt",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "브이넥_니트.png"
+    },
+    {
+      "id": 14,
+      "name": "셔츠",
+      "sortSleeve": false,
+      "type": "shirt",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "셔츠.png"
+    },
+    {
+      "id": 15,
+      "name": "자켓",
+      "sortSleeve": false,
+      "type": "jacket",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "자켓.png"
+    },
+    {
+      "id": 16,
+      "name": "코트",
+      "sortSleeve": false,
+      "type": "coat",
+      "weather": "all",
+      "catagory": "coat",
+      "gender": "unisex",
+      "image": "코트.png"
+    },
+    {
+      "id": 17,
+      "name": "크롭티",
+      "sortSleeve": false,
+      "type": "tshirt",
+      "weather": "summer",
+      "catagory": "top",
+      "gender": "female",
+      "image": "크롭티.png"
+    },
+    {
+      "id": 18,
+      "name": "트레이닝 바지",
+      "sortSleeve": false,
+      "type": "sweats",
+      "weather": "all",
+      "catagory": "bottom",
+      "gender": "unisex",
+      "image": "트레이닝_바지.png"
+    },
+    {
+      "id": 19,
+      "name": "후드집업",
+      "sortSleeve": false,
+      "type": "hoodie",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "후드집업.png"
+    },
+    {
+      "id": 20,
+      "name": "후드티",
+      "sortSleeve": false,
+      "type": "hoodie",
+      "weather": "all",
+      "catagory": "top",
+      "gender": "unisex",
+      "image": "후드티.png"
     }
-  ]
+  ],
+  "color": [{ "white": "#ffffff" }, { "black": "#000000" }],
+  "fabric": {}
 }
